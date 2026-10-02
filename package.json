@@ -1,0 +1,25 @@
+{
+  "name": "nova-pasta",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000v\u0000a\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "start": "node src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HORLIANSOUSA/prova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HORLIANSOUSA/prova/issues"
+  },
+  "homepage": "https://github.com/HORLIANSOUSA/prova#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
