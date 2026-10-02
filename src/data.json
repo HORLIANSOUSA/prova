@@ -1,4 +1,32 @@
-{ "id": 1, "nomeAluno": "Ana", "livro": "Clean Code", "devolvidoEm": null },
-{ "id": 2, "nomeAluno": "joão", "livro": "Senhor dos aneis", "devolvidoEm": null },
-{ "id": 3, "nomeAluno": "pedro", "livro": "Harry potter", "devolvidoEm": null },
-{ "id": 4, "nomeAluno": "tiago", "livro": "The witcher", "devolvidoEm": null };
+[
+  {
+    "id": 1,
+    "nomeAluno": "Hannah",
+    "livro": "Game Of Thrones",
+    "devolvidoEm": "20/06/2024"
+  },
+  {
+    "id": 2,
+    "nomeAluno": "joão",
+    "livro": "Senhor dos aneis",
+    "devolvidoEm": null
+  },
+  {
+    "id": 3,
+    "nomeAluno": "pedro",
+    "livro": "Harry potter",
+    "devolvidoEm": "08/06/2025"
+  },
+  {
+    "id": 4,
+    "nomeAluno": "tiago",
+    "livro": "The witcher",
+    "devolvidoEm": null
+  },
+  {
+    "id": 5,
+    "nomeAluno": "Teste atualizado",
+    "livro": "Livro atualizado",
+    "devolvidoEm": null
+  }
+]
